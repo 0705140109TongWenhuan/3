@@ -1,6 +1,3 @@
-# homework1
-
-<!doctype html>
 <html>
          <head>
               <meta charset="utf-8">
